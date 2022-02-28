@@ -1,0 +1,39 @@
+.fn{
+    padding: 15px 25px;
+    font-size: 25px;
+
+}
+/* .fn :hover{
+    background-color: chartreuse;
+} */
+
+.box-1{
+    background-color: chartreuse;
+    width: 300px;
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+    border: 1px solid black;
+}
+.box-2 {
+    background-color: rgb(229, 255, 0);
+    width: 300px;
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+    border: 1px solid black;
+}
+.cls{
+    display: flex;
+    justify-content: space-evenly;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.button button{
+    padding: 20px 50px;
+}
